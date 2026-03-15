@@ -103,7 +103,9 @@ Users can dynamically filter dashboard by:
 
 ## 📷 Dashboard Preview
 
+## 📷 Dashboard Preview
 
+![Meta Ads Dashboard](Meta_Ad_Performance_yp.png)
 
 ---
 
